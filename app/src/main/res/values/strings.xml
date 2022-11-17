@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CarlosCastro.SP</string>
+
+    <string-array name="roles">
+        <item>Supervisor</item>
+        <item>Construction Manager</item>
+        <item>Project Manager</item>
+    </string-array>
+</resources>
